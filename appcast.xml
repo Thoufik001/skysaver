@@ -3,13 +3,22 @@
     <channel>
         <title>SkySaver</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Mon, 09 Nov 2026 23:50:38 +0530</pubDate>
+            <sparkle:version>202611092350</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<html><body style="font-family:-apple-system,sans-serif"><h3>SkySaver 0.1.2</h3><p>Fixes for usage counts and update checks.</p></body></html>]]></description>
+            <enclosure url="https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver-0.1.2.zip" length="14857966" type="application/octet-stream" sparkle:edSignature="YpVP21oF1evp2bgdJyPFvD+l0GMGmuC43Aw8lTvwphMVR9dyo0JmW8HflD0+0QjCi0acvebDhbiaHLIJysO/Aw=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Mon, 09 Nov 2026 23:29:42 +0530</pubDate>
             <sparkle:version>202611092329</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<html><body style="font-family:-apple-system,sans-serif"><h3>SkySaver 0.1.1</h3><p>SkySaver now moves itself into Applications, and the install steps are clearer.</p></body></html>]]></description>
             <enclosure url="https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver-0.1.1.zip" length="14845968" type="application/octet-stream" sparkle:edSignature="OjDMWklWe0j2bU/lmjldCv4GAVjxRPNlwMkuwzExjnsvzxlnrVQXimH5ICJzH3VMYrVzeB1dwH91Ffwgk1hFCQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver202611092329-202611092211.delta" sparkle:deltaFrom="202611092211" length="27082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gRzJZ6aKmzNK1ozCrq/Ul6THSb9gQezTlbgnAoHjNeS0tPeUG+pOo1kby3HePkosq1BWUVfT2X3Gn2cy7jmaCw=="/>

@@ -29,7 +29,7 @@ SkySaver draws a meadow on your desktop, under a sky that matches your city: mor
 
 - Weather and sunrise and sunset come from your city, so the light and clouds follow what is outside. Choose another city any time.
 - Move the pointer across the meadow and the grass bends. Turn this off in Settings if you want the sky to play on its own.
-- Pauses when a full-screen app or a window covers the desktop. Draws at 30 frames a second, and 15 in Low Power Mode.
+- Pauses when a full-screen app or a window covers the desktop.
 - Optional ambient sound: breeze and rain, with a volume slider.
 - A time dial and a weather picker let you preview any hour and any weather.
 - Runs on every display and every desktop.
@@ -39,7 +39,7 @@ SkySaver draws a meadow on your desktop, under a sky that matches your city: mor
 
 1. [Download SkySaver.dmg](https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver.dmg).
 2. Open it and double-click SkySaver. It offers to move itself into Applications.
-3. The first time you open it, macOS says it can't verify SkySaver, because the app isn't notarized yet. Click **Done**, open **System Settings → Privacy & Security**, scroll down and click **Open Anyway** next to SkySaver, then enter your password. You only need to do this once. You can also right-click SkySaver and choose **Open**.
+3. The first time you open it, macOS says it can't verify SkySaver, because the app isn't notarized yet. Click **Done**, open **System Settings → Privacy & Security**, scroll down and click **Open Anyway** next to SkySaver, then enter your password. You only need to do this once.
 
 To skip the warning altogether, install from Terminal instead. Paste this one line:
 
