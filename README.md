@@ -74,7 +74,7 @@ There is no account. SkySaver does not open your files, photos or documents.
 
 If you allow location, it is used on your Mac to choose your city and compute the sky. You can skip it and pick a city by hand.
 
-SkySaver sends anonymous usage counts by default: that the app was opened that day, how long the wallpaper ran, which switches were used, the app version, and any crash or error it noticed. Your country is worked out by the server from your connection. No names, no IDs, no IP addresses are stored, and nothing you type is sent. Turn it off in Settings with **Share anonymous usage**.
+SkySaver sends anonymous usage counts by default: that the app was opened that day, whether the wallpaper is running right now, how long the wallpaper ran, which switches were used, the app version, and any crash or error it noticed. Your country is worked out by the server from your connection. No names, no IDs, no IP addresses are stored, and nothing you type is sent. Turn it off in Settings with **Share anonymous usage**.
 
 The app talks to these services:
 
