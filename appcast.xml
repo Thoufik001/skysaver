@@ -3,13 +3,22 @@
     <channel>
         <title>SkySaver</title>
         <item>
+            <title>0.1.4</title>
+            <pubDate>Mon, 09 Nov 2026 23:56:52 +0530</pubDate>
+            <sparkle:version>202611092356</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<html><body style="font-family:-apple-system,sans-serif"><h3>SkySaver 0.1.4</h3><p>Install window: the Settings shortcut opens the right section again.</p></body></html>]]></description>
+            <enclosure url="https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver-0.1.4.zip" length="14857966" type="application/octet-stream" sparkle:edSignature="mIwt8s5Bx3vFjTJcvpnjT9mGrtxACwjQOc6vvkwEjpkjSjHjHgprIJRLj3DNlFErajxz4d+7bE1ZYYaXyvwcBQ=="/>
+        </item>
+        <item>
             <title>0.1.3</title>
             <pubDate>Mon, 09 Nov 2026 23:53:54 +0530</pubDate>
             <sparkle:version>202611092353</sparkle:version>
             <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<html><body style="font-family:-apple-system,sans-serif"><h3>SkySaver 0.1.3</h3><p>Install window: a Settings shortcut that opens the right section.</p></body></html>]]></description>
             <enclosure url="https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver-0.1.3.zip" length="14857964" type="application/octet-stream" sparkle:edSignature="1HhaCnU14d8z+rqHec92/PihQSAoB0iIB+PgZn4PWttS5satvpaPd76LZRH23zU5JGB0qVeR8x706/fDNtQgCg=="/>
         </item>
         <item>
@@ -20,15 +29,6 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver-0.1.2.zip" length="14857966" type="application/octet-stream" sparkle:edSignature="YpVP21oF1evp2bgdJyPFvD+l0GMGmuC43Aw8lTvwphMVR9dyo0JmW8HflD0+0QjCi0acvebDhbiaHLIJysO/Aw=="/>
-        </item>
-        <item>
-            <title>0.1.1</title>
-            <pubDate>Mon, 09 Nov 2026 23:29:42 +0530</pubDate>
-            <sparkle:version>202611092329</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver-0.1.1.zip" length="14845968" type="application/octet-stream" sparkle:edSignature="OjDMWklWe0j2bU/lmjldCv4GAVjxRPNlwMkuwzExjnsvzxlnrVQXimH5ICJzH3VMYrVzeB1dwH91Ffwgk1hFCQ=="/>
         </item>
     </channel>
 </rss>
