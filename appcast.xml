@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SkySaver</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 09 Nov 2026 21:14:52 +0530</pubDate>
+            <sparkle:version>202611092114</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<html><body style="font-family:-apple-system,sans-serif"><h3>SkySaver 0.1.0</h3><p>First release.</p></body></html>]]></description>
+            <enclosure url="https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver-0.1.0.zip" length="14841388" type="application/octet-stream" sparkle:edSignature="jxZfo008TzwrLALRgsdS+bh2op1CqO0BoWXR0iHYECXX6m9wHmwNd+1fQLXg/O6BcGMvpKSNQIII18YknTyJBA=="/>
+        </item>
+    </channel>
+</rss>
