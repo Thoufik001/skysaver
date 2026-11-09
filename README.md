@@ -39,7 +39,15 @@ SkySaver draws a meadow on your desktop, under a sky that matches your city: mor
 
 1. [Download SkySaver.dmg](https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver.dmg).
 2. Open it and drag SkySaver onto Applications.
-3. Open SkySaver from Applications. The first time, macOS says it can't verify the developer, because the app isn't notarized yet. Right-click SkySaver, choose **Open**, then **Open** again. You only need to do this once.
+3. Open SkySaver from Applications. The first time, macOS says it can't verify SkySaver, because the app isn't notarized yet. Click **Done**, open **System Settings → Privacy & Security**, scroll down and click **Open Anyway** next to SkySaver, then enter your password. You only need to do this once.
+
+To skip the warning altogether, install from Terminal instead. Paste this one line:
+
+```
+curl -fsSL https://thoufik.space/skysaver/install.sh | bash
+```
+
+It downloads the same app and puts it in Applications. Because Terminal downloads aren't marked as coming from the internet, macOS opens it straight away. You can read the script first at [thoufik.space/skysaver/install.sh](https://thoufik.space/skysaver/install.sh).
 
 Click the cloud-and-sun icon in the menu bar, then **Start Wallpaper**. **Stop Wallpaper** brings your usual wallpaper back.
 
