@@ -20,9 +20,6 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver-0.1.1.zip" length="14845968" type="application/octet-stream" sparkle:edSignature="OjDMWklWe0j2bU/lmjldCv4GAVjxRPNlwMkuwzExjnsvzxlnrVQXimH5ICJzH3VMYrVzeB1dwH91Ffwgk1hFCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver202611092329-202611092211.delta" sparkle:deltaFrom="202611092211" length="27082" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gRzJZ6aKmzNK1ozCrq/Ul6THSb9gQezTlbgnAoHjNeS0tPeUG+pOo1kby3HePkosq1BWUVfT2X3Gn2cy7jmaCw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>0.1.0</title>
