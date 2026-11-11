@@ -9,18 +9,8 @@
             <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<html><body style="font-family:-apple-system,sans-serif"><h3>SkySaver 0.2.2</h3><p>New sounds: birds in the morning and daytime, a night soundscape after dark, and thunder with lightning. Night fireworks (Diwali season) are now off by default; switch them on from the card whenever you like.</p></body></html>]]></description>
+            <description><![CDATA[<html><body style="font-family:-apple-system,sans-serif"><h3>SkySaver 0.2.2</h3><ul><li>Birds in the morning and daytime</li><li>A night soundscape after dark</li><li>Thunder with lightning</li><li>Night fireworks (Diwali season) are now off by default; switch them on from the card anytime</li></ul></body></html>]]></description>
             <enclosure url="https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver-0.2.2.zip" length="20067053" type="application/octet-stream" sparkle:edSignature="5HEFfHPcdnoHz9wurBUYj/ZkVJei5zudd3sg6UF+/az4XdhUvgIB8o8BHk6Ltzf0HKXvHEq9V8xHYG0kNjvFAQ=="/>
-        </item>
-        <item>
-            <title>0.2.2</title>
-            <pubDate>Wed, 11 Nov 2026 21:19:39 +0530</pubDate>
-            <sparkle:version>202611112119</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<html><body style="font-family:-apple-system,sans-serif"><h3>SkySaver 0.2.2</h3><p>New sounds: birds in the morning and daytime, a night soundscape after dark, and thunder with lightning, joining the wind and rain.</p></body></html>]]></description>
-            <enclosure url="https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver-0.2.2.zip" length="19927081" type="application/octet-stream" sparkle:edSignature="UIjOrRMyauWoUFBjoRNcaPhu7+x+ZMfSkltQ48R7yQobImUoTP7ky9VZbNa5wl+Sonpl/srRXBL7gATFvh4kBA=="/>
         </item>
         <item>
             <title>0.2.1</title>
