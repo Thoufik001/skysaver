@@ -4,6 +4,16 @@
         <title>SkySaver</title>
         <item>
             <title>0.2.2</title>
+            <pubDate>Thu, 12 Nov 2026 00:29:53 +0530</pubDate>
+            <sparkle:version>202611120029</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<html><body style="font-family:-apple-system,sans-serif"><h3>SkySaver 0.2.2</h3><p>New sounds: birds in the morning and daytime, a night soundscape after dark, and thunder with lightning. Night fireworks (Diwali season) are now off by default; switch them on from the card whenever you like.</p></body></html>]]></description>
+            <enclosure url="https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver-0.2.2.zip" length="20067053" type="application/octet-stream" sparkle:edSignature="5HEFfHPcdnoHz9wurBUYj/ZkVJei5zudd3sg6UF+/az4XdhUvgIB8o8BHk6Ltzf0HKXvHEq9V8xHYG0kNjvFAQ=="/>
+        </item>
+        <item>
+            <title>0.2.2</title>
             <pubDate>Wed, 11 Nov 2026 21:19:39 +0530</pubDate>
             <sparkle:version>202611112119</sparkle:version>
             <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
@@ -20,15 +30,6 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver-0.2.1.zip" length="16179950" type="application/octet-stream" sparkle:edSignature="2gmKruydLoLeP0VTo7uK510jvbLsJ+0t2y/5IZGfOJQwF8EFBbN9sEBdyRmKRpBE2AgXMAE7d2kTyRVcBzwTBg=="/>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Tue, 10 Nov 2026 11:14:55 +0530</pubDate>
-            <sparkle:version>202611101114</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver-0.2.0.zip" length="16215867" type="application/octet-stream" sparkle:edSignature="getpaSxN3WzhumwM7fjVx91MU8Tu+lEPpXi3m7j9MPzVHv3vxCewhQ9AEBIcz7eSsDaULsfVD7qJ5xoXOpodDw=="/>
         </item>
     </channel>
 </rss>
