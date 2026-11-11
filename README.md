@@ -30,7 +30,7 @@ SkySaver draws a meadow on your desktop, under a sky that matches your city: mor
 - Weather and sunrise and sunset come from your city, so the light and clouds follow what is outside. Choose another city any time.
 - Move the pointer across the meadow and the grass bends. Turn this off in Settings if you want the sky to play on its own.
 - Pauses when a full-screen app or a window covers the desktop.
-- Optional ambient sound: breeze and rain, with a volume slider.
+- Optional ambient sound that follows the sky: wind, birds by day, a night soundscape, rain and thunder, with a volume slider.
 - A time dial and a weather picker let you preview any hour and any weather.
 - Runs on every display and every desktop.
 - Starts at login if you want it to, and updates itself.
