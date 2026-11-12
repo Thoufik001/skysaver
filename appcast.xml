@@ -4,6 +4,16 @@
         <title>SkySaver</title>
         <item>
             <title>0.2.2</title>
+            <pubDate>Thu, 12 Nov 2026 11:29:29 +0530</pubDate>
+            <sparkle:version>202611121129</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<html><body style="font-family:-apple-system,sans-serif"><h3>SkySaver 0.2.2</h3><ul><li>Added native sounds: birds, crickets, rain and thunder</li><li>Added a notification when an update is ready</li><li>Added news cards for previews of new scenes</li><li>Added wallpaper that starts faster at login</li><li>Added a still sky that stays when the Mac powers off</li><li>Added opening the sky window from the app icon</li></ul></body></html>]]></description>
+            <enclosure url="https://github.com/Thoufik001/skysaver/releases/download/builds/SkySaver-0.2.2.zip" length="21680942" type="application/octet-stream" sparkle:edSignature="OPn3pJOJVjakm6uIJVdVEDS31UW+/JuKlKK6DNQw0hZvcEkfJO7bobq87S2Rl8qoV4i6IFeHcvs77yEzpEuhBQ=="/>
+        </item>
+        <item>
+            <title>0.2.2</title>
             <pubDate>Thu, 12 Nov 2026 00:29:53 +0530</pubDate>
             <sparkle:version>202611120029</sparkle:version>
             <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
